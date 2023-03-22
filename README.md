@@ -1,2 +1,2 @@
-# Oasis_WebDev
+# OIBSIP
 Internship in Oasis Infobyte
